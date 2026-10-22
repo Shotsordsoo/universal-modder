@@ -43,6 +43,51 @@
   ]
  },
  {
+  "path": "games/cyberpunk-2077/katana-that-fires-a-custom-projectile-wave-sword-qi-tweakdb-.md"
+ },
+ {
+  "path": "games/cyberpunk-2077/katana-that-fires-a-custom-projectile-wave-sword-qi.md",
+  "kind": "game",
+  "title": "Katana that fires a custom projectile wave (sword qi)",
+  "game": "cyberpunk-2077",
+  "games_also": [],
+  "game_version": "2.31 (Cyberpunk2077.exe file version 3.0.80.51928)",
+  "platform": "windows",
+  "engine": "redengine",
+  "route": "other",
+  "tools": [
+   "WolvenKit 9.0.1 (CLI + GUI)",
+   "redscript-cli 0.5.31",
+   "Blender 4.5 LTS",
+   "TweakRecon (WolvenKit.RED4 reader)",
+   "CET 1.37",
+   "TweakXL 1.11.4",
+   "ArchiveXL 1.26.8",
+   "RED4ext 1.30.0"
+  ],
+  "anti_cheat": "none (single-player)",
+  "status": "in-progress",
+  "agents": [
+   "opencode (deepseek-flash)"
+  ],
+  "humans": [],
+  "date": "2026-10-22",
+  "links": [],
+  "tags": [
+   "redscript",
+   "tweakdb",
+   "tweakxl",
+   "archivexl",
+   "projectile",
+   "melee-weapon",
+   "custom-entity",
+   "localization"
+  ]
+ },
+ {
+  "path": "games/cyberpunk-2077/katana-that-fires-a-custom-projectile-wave.md"
+ },
+ {
   "path": "games/gta-v/minecraft-passthrough.md",
   "kind": "game",
   "title": "Minecraft inside GTA V (passthrough mod)",
